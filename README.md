@@ -1,40 +1,17 @@
-<img align="left" height="200" src="https://cdn.discordapp.com/emojis/970888072625537034.gif?size=96&quality=lossless"  />
+<h1 align="center">Fake Time</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elan&label=Profile%20views&color=0e75b6&style=flat" alt="elan" /> </p>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elan" alt="elan" /></a> </p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" width="52" alt="ssh logo"  />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Tira-tw" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Tira-tw" height="150" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elan&show_icons=true&locale=en&layout=compact" alt="elan" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elan&show_icons=true&locale=en" alt="elan" /></p>
 
-<h3 align="center">你好呀~<br>人家是一個Discord Bot檔案文字翻譯員~<br>雖然人家不會寫<br>但還是會用盡全力提供最好的中文文字檔案!</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Tira-tw/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://discord.gg/Z9hbqNaZdn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/c/Tiratw/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elan&" alt="elan" /></p>
